@@ -10,4 +10,6 @@ run
 config.local.js
 basement_dist
 .vercel
+.temp
+.cache
 
