@@ -13,7 +13,6 @@ export default defineUserConfig({
   theme: plumeTheme({
     // 添加您的部署域名
     // hostname: 'https://your_site_url',
-
     plugins: {
       /**
        * Shiki 代码高亮
