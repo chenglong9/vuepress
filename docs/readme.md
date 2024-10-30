@@ -8,8 +8,8 @@ config:
     background: tint-plate
     hero:
       name: chenglong
-      tagline: VuePress Next Theme
-      text: 一个简约的，功能丰富的 vuepress 文档&博客 主题
+      tagline: 
+      text: Chenglong's blog is updated irregularly.
       actions:
         -
           theme: brand
@@ -17,6 +17,6 @@ config:
           link: /blog/
         -
           theme: alt
-          text: Github →
-          link: https://github.com/chenglong9
+          text: 知识库 →
+          link: /note/
 ---

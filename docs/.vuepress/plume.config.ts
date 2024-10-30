@@ -14,7 +14,7 @@ export default defineThemeConfig({
   appearance: true,
 
   profile: {
-    avatar: 'https://theme-plume.vuejs.press/plume.png',
+    avatar: 'long.png',
     name: 'chenglong',
     description: '',
     // circle: true,
@@ -25,7 +25,7 @@ export default defineThemeConfig({
   navbar,
   notes,
   social: [
-    { icon: 'github', link: '/' },
+    { icon: 'github', link: 'https://github.com/chenglong9' },
   ],
 
 })
